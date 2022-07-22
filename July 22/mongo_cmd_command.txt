@@ -1,0 +1,9 @@
+mongo 
+show dbs
+use DAtabase_name
+db     // to show the DAtabase_name
+db.createCollection("Collection-name")
+show collections
+db.Collection-name.insert({--text--})
+show collections
+db.gaurav.find().pretty()
